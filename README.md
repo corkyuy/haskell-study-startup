@@ -2,6 +2,11 @@
 
 # Haskell Study Startup
 
+- [Deutsch](https://github.com/sjsyrek/haskell-study-startup/blob/master/README_de.md)
+- [Indonesian](https://github.com/sjsyrek/haskell-study-startup/blob/master/README_id.md)
+
+_Please help me [localize](https://github.com/sjsyrek/haskell-study-startup/issues/4) this repo!_
+
 ## Launch your own Haskell study group
 
 Learning Haskell is a good idea, but you don't have to do it alone. The book _[Haskell Programming from First Principles](http://haskellbook.com/)_ by [Chris Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic) provides the perfect curriculum for group study. Having started my own study groups to work through this book, I can attest to the efficacy of doing so: it keeps you motivated, it keeps you on track, and it keeps you honest. You may be able to join an existing group, but it's arguably better to start your own, even if you don't feel qualified. I knew practically nothing about Haskell or functional programming when I started my first group in New York City. In fact, I think that's the best possible situation to be in—your learning isn't impeded or your judgment clouded by past experience or irrelevant expectations, and you're able to learn along with fellow novices. You're all in it together! After all, most Haskell developers—we hope—haven't even been born yet. Start learning today, and you'll still be part of the vanguard.
@@ -104,12 +109,22 @@ The following list of study groups have adopted or adapted the format and guidel
 **Europe**
 
 - [Berlin, Germany](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
+- [Karlsruhe, Germany](https://www.meetup.com/de-DE/Karlsruhe-Haskell-Lerngruppe/)
+- [Delft, Netherlands](https://www.meetup.com/preview/Delft-Haskell-Study-Group)
 - [Dublin, Ireland](https://github.com/FintanH/haskell-study-dublin)
+- [Kyiv, Ukraine](https://github.com/KyivHaskell/haskell-study-group)
+- [Bristol, UK](https://www.meetup.com/CodeHub-Bristol/)
 
 **North America**
 
-- [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
+- [Albuquerque, NM](https://github.com/fpnm/fpabq)
 - [Denver, CO](https://www.meetup.com/denverfp/)
+- [Madison, WI](https://www.meetup.com/Haskallywags)
+- [New York, NY](https://github.com/jkachmar/haskell-study-nyc)
+- [Oakland, CA](https://github.com/xakirax/haskell-study-oakland)
+- [Sacramento, CA](https://www.meetup.com/Sacramento-Functional-Programming-Group)
+- [Vancouver, BC](https://github.com/vanfp/haskell-workshop)
+- [Charlottesville, VA](https://www.meetup.com/Charlottesville-Haskell-Book-Reading-Group/)
 
 ### Resources and references for learning
 
